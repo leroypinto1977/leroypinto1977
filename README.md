@@ -95,6 +95,8 @@
 • Infrastructure Automation  
 • System Design & Distributed Systems
 
+---
+
 # 🚀 Notable Projects
 
 ### 🎓 College Tech Event Platform
@@ -124,6 +126,16 @@
 ![](https://streak-stats.demolab.com/?user=leroypinto1977&theme=vision-friendly-dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leroypinto1977&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
+</div>
+
+---
+
+# 📊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leroypinto1977&theme=github_dark" width="95%"/>
 
 </div>
 
@@ -166,3 +178,6 @@
 ![](https://visitcount.itsvg.in/api?id=leroypinto1977&icon=0&color=12)
 
 </div>
+
+
+
