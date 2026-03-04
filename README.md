@@ -2,15 +2,6 @@
 
 # <div align="center">Leroy Samuel - Full Stack Developer</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%">
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Web+%26+Mobile+App+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
-
-</div>
 
 <div align="center">
 
@@ -169,7 +160,7 @@
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
