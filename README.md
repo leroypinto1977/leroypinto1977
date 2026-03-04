@@ -1,3 +1,5 @@
+
+
 # <div align="center">Leroy Samuel - Full Stack Developer</div>
 
 <div align="center">
@@ -93,21 +95,33 @@
 
 • AI Automation Workflows  
 • Infrastructure Automation  
-• System Design & Distributed Systems
+• System Design & Distributed Systems  
+
+---
+
+# 🎧 Coding Playlist
+
+<div align="center">
+
+![LoFi](https://img.shields.io/badge/Music-LoFi_Coding_Playlist-blueviolet?style=for-the-badge&logo=spotify)
+![Focus](https://img.shields.io/badge/Vibe-Focus_Mode-black?style=for-the-badge)
+![Status](https://img.shields.io/badge/Currently-Coding-green?style=for-the-badge)
+
+</div>
 
 ---
 
 # 🚀 Notable Projects
 
 ### 🎓 College Tech Event Platform
-• Designed and deployed complete event platform with **payment integration**  
+• Designed and deployed a complete event platform with **payment integration**  
 • Built and deployed the entire system **solo within one month**
 
 ### 🚌 Bus Tracking System
 • Built cross-platform mobile app using **Flutter & Firebase**  
 • Real-time bus tracking integrated with **college web portal**
 
-### 🏬 ColtMart Retail App
+### 🏬 BoltMart Retail App
 • NFC-based mobile shopping application  
 • Backend built using **Spring Boot**
 
@@ -149,7 +163,9 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/leroypinto1977/leroypinto1977/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
@@ -178,6 +194,3 @@
 ![](https://visitcount.itsvg.in/api?id=leroypinto1977&icon=0&color=12)
 
 </div>
-
-
-
