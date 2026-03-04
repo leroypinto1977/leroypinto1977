@@ -32,7 +32,7 @@
 
 ⚙️ I enjoy working across the **entire stack — from UI/UX to backend architecture and deployment**
 
-🌱 Always exploring **automation, infrastructure tooling, and scalable systems**
+🌱 Exploring DevOps, automation workflows (n8n & Make), and scalable system design
 
 ---
 
@@ -50,10 +50,12 @@
 ### 🌐 Web Development
 
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 ---
 
@@ -61,6 +63,13 @@
 
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### ⚙️ Automation & Workflow
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-5A67D8?style=for-the-badge&logo=make&logoColor=white)
 
 ---
 
@@ -79,6 +88,12 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
+# ⚡ Currently Exploring
+
+• AI Automation Workflows  
+• Infrastructure Automation  
+• System Design & Distributed Systems
 
 # 🚀 Notable Projects
 
