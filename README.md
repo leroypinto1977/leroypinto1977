@@ -1,4 +1,4 @@
-# <div align="center">⚡ Leroy Samuel - Full Stack Developer</div>
+# <div align="center">Leroy Samuel - Full Stack Developer</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%">
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Systems;Web+%26+Mobile+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Web+%26+Mobile+App+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ⚙️ I enjoy working across the **entire stack — from UI/UX to backend architecture and deployment**
 
-🌱 Always exploring **new technologies, automation tools, and distributed systems**
+🌱 Always exploring **automation, infrastructure tooling, and scalable systems**
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -111,6 +111,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leroypinto1977&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 </div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Leroy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leroypinto1977&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/leroypinto1977/leroypinto1977/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
